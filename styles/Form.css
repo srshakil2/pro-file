@@ -1,0 +1,10 @@
+label {
+  display: block;
+  margin-left: 5px;
+  margin-bottom: 2px;
+}
+#reset,
+#submit {
+  margin-top: 4px;
+  margin-left: 2px;
+}
